@@ -1,0 +1,6 @@
+D:\FPT Polytechnic\DuAnMau\Assignment\ASM\QuanLyBanHang\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+D:\FPT Polytechnic\DuAnMau\Assignment\ASM\QuanLyBanHang\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+D:\FPT Polytechnic\DuAnMau\Assignment\ASM\QuanLyBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.AssemblyReference.cache
+D:\FPT Polytechnic\DuAnMau\Assignment\ASM\QuanLyBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+D:\FPT Polytechnic\DuAnMau\Assignment\ASM\QuanLyBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.dll
+D:\FPT Polytechnic\DuAnMau\Assignment\ASM\QuanLyBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.pdb
